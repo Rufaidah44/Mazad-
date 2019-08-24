@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "902419043933",
+    "firebase_url": "https://mzad-d2670.firebaseio.com",
+    "project_id": "mzad-d2670",
+    "storage_bucket": "mzad-d2670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902419043933:android:328ca2989e94d7c0",
+        "android_client_info": {
+          "package_name": "com.example.rufaidah.mazadapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902419043933-7k8uaegoo91j1jpuok3n5c94vr9ctnfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rufaidah.mazadapp",
+            "certificate_hash": "5436538c170c40c90842f2c6cefe51d3e31788e6"
+          }
+        },
+        {
+          "client_id": "902419043933-gbaav40j9d8t5ovv09egj6jegd6ko5gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1-xoZ6_Bp1suoj3zw6cNQe_m8kWahuLA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902419043933-gbaav40j9d8t5ovv09egj6jegd6ko5gf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "902419043933-nnpa4daf7dpkml0u9pfnepdloaomup33.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wixsite.muotqan.mazad"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
